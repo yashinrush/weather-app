@@ -11,7 +11,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 🌐 Live Preview
 
-> *(Add your GitHub Pages or deployed link here if available)*
+> https://weather-app-psi-woad.vercel.app/
 
 ## 🛠️ Technologies Used
 
